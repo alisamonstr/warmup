@@ -2,6 +2,7 @@
 Let's warm up!
 
 ## Task
+https://www.codecademy.com/users/alisamonstr/achievements
 
 Your task is to implement function, which converts Celsius to Fahrenheit.
 Write your solution in `src/index.js`
